@@ -11,7 +11,7 @@ int main() {
 		z = f + 2;
 		f = 0 + 1;
 		cout << "hsahd";
-		int x = 0;
+		f = z + 1 + 3;
 		return z - f;
 	}
 	return 0;
